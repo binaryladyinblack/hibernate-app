@@ -1,0 +1,27 @@
+Tue Dec 26 12:45:37 CET 2017 : Apache Derby Network Server - 10.14.1.0 - (1808820) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Tue Dec 26 12:46:42 CET 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance a816c00e-0160-92a4-6b16-ffffd1206353 
+on database directory /home/patrycja/Desktop/ITarasinskaJPAPractice/db-derby-10.14.1.0-bin/bin/ITarasinskaJPAPractice with class loader sun.misc.Launcher$AppClassLoader@610455d6 
+Loaded from file:/home/patrycja/Desktop/ITarasinskaJPAPractice/db-derby-10.14.1.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=/home/patrycja/Desktop/ITarasinskaJPAPractice/db-derby-10.14.1.0-bin/bin
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-104-generic
+derby.system.home=/home/patrycja/Desktop/ITarasinskaJPAPractice/db-derby-10.14.1.0-bin/bin
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Dec 26 12:47:57 CET 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.1.0 - (1808820): instance 08264012-0160-92a4-6b16-ffffd1206353 
+on database directory /home/patrycja/Desktop/ITarasinskaJPAPractice/db-derby-10.14.1.0-bin/bin/ITarasinskaPatrycjaJPAPractice with class loader sun.misc.Launcher$AppClassLoader@610455d6 
+Loaded from file:/home/patrycja/Desktop/ITarasinskaJPAPractice/db-derby-10.14.1.0-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_151-b12
+user.dir=/home/patrycja/Desktop/ITarasinskaJPAPractice/db-derby-10.14.1.0-bin/bin
+os.name=Linux
+os.arch=amd64
+os.version=4.4.0-104-generic
+derby.system.home=/home/patrycja/Desktop/ITarasinskaJPAPractice/db-derby-10.14.1.0-bin/bin
+Database Class Loader started - derby.database.classpath=''
